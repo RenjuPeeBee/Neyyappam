@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".victim"
+    android:background="@drawable/frag1"
+    android:orientation="vertical"
+    android:onClick="replay"
+    android:tag="5">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text= "@string/title_faint"
+        android:gravity="center"
+        android:layout_gravity="top|center"
+        android:fontFamily="monospace"
+        android:textSize="25sp"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:textColor="#111111"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/faint"
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_vertical_margin"
+        android:paddingTop="@dimen/activity_horizontal_margin"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="#111111"/>
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/fainted"
+        android:paddingTop="@dimen/activity_horizontal_margin"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

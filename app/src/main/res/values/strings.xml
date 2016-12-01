@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">108: Neyyappam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="victim">Are you the victim? Do you need medical help?
+Press Voulume Up button if your answer is YES.
+Press the Voulume Down button if your answer is NO.
+Touch the screen to repeat the question.</string>
+
+    <string name="instruction">Please calm down and stay awake. Medical help is on the way.
+You need to answer the following questions with YES or NO.
+If your answer is YES, press the Volume Up button. If your
+answer is NO, press the Volume Down button. To repeat the
+question, just touch anywhere on the screen.
+
+Are you clear with the Instructions?
+        Answer YES or NO</string>
+
+    <string name="heart">Do you feel any pain in the heart region? Does it feel
+like your heart is stopping?</string>
+
+    <string name="breathe">You are going to be fine. Are you finding it difficult
+to breathe?</string>
+
+    <string name="poison">You are doing great. Have you been subjected to some kind
+of poison?</string>
+
+    <string name="faint">Now listen carefully and answer this question.
+Are you losing your consciousness ? Do you feel like you
+are fainting?</string>
+
+    <string name="chest">Is there some kind of chest pain? Is your lungs getting
+heavier?</string>
+
+    <string name="head">Do you have any injury in the head? </string>
+    
+    <string name="neck">There is nothing to worry. Do you have any injury
+in the neck?</string>
+
+    <string name="stomach">Do you have any kind of injury in your stomach?</string>
+
+    <string name="hand">Do you have any kind of injury in any of your hands?</string>
+
+    <string name="leg">You are perfectly fine. Do you any injury in any of your legs?</string>
+
+    <string name="back">Do you have any injury in the back?Is there some kind
+of back pain?</string>
+
+    <string name="title_victim">108 EMERGENCY</string>
+    <string name="title_instruction">INSTRUCTIONS</string>
+    <string name="title_heart">HEART PAIN</string>
+    <string name="title_breathe">BREATHING PROBLEM</string>
+    <string name="title_poison">POISON INTAKE</string>
+    <string name="title_faint">FAINTING</string>
+    <string name="title_chest">CHEST PAIN</string>
+    <string name="title_head">HEAD INJURY</string>
+    <string name="title_neck">NECK INJURY</string>
+    <string name="title_stomach">STOMACH INJURY</string>
+    <string name="title_hand">HAND INJURY</string>
+    <string name="title_leg">LEG INJURY</string>
+    <string name="title_back">BACK INJURY</string>
+    <string name="title_activity_activity2">activity2</string>
+</resources>

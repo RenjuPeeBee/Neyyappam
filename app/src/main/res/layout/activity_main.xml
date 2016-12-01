@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.renju.a108.activity2">
+
+    <android.support.v4.view.PagerTitleStrip
+        android:id="@+id/titlestrip"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:alpha="0.5"
+        android:textAlignment="center"
+        android:background="#666666"/>
+    <fragment
+        android:name="com.example.renju.a108.fragmentone"
+        android:id="@+id/frag1"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</android.support.v4.view.ViewPager>
